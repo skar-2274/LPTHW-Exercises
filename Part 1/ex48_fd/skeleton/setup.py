@@ -7,7 +7,7 @@ config = {
     'description': 'The Damn Setup',
     'author': 'Surajit Kar',
     'url': 'http://www.surajitsprojectskeleton.com',
-    'authors_email': 'skar-2274@outlook.com',
+    'authors_email': '',
     'version': '0.1',
     'install_requires': ['nose'],
     'packages': ['ex48'],
