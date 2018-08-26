@@ -33,7 +33,7 @@ def game():
 
         return redirect(url_for("game"))
 
-app.secret_key = 'Y9Eu21w/7qP K-TBX!laZ]OMG/,?FS'
+#app.secret_key = 'make up a key here'
 
 if __name__ == "__main__":
     app.run()
